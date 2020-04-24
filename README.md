@@ -1,4 +1,5 @@
-# stock-trader
+# Stock Trader
+Simple web apps using Vue.JS and Firebase.
 
 ## Project setup
 ```
